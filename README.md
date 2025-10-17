@@ -10,3 +10,4 @@ Bem-vindo(a) ao nosso mural de talentos! Este projeto é um espaço para cada ap
 5.  Use o `MODELO.md` como base para criar o seu perfil.
 6.  Faça o **commit** e o **push** das suas alterações.
 7.  Abra um **Pull Request** para que seu perfil seja adicionado ao mural principal!
+8.  Abra o link: <https://docs.google.com/document/d/1r6ebAZ_SWpAV6_s7w6Yp3O_oqe6GqR44Llc0WAOmGwo/edit?tab=t.0#heading=h.aw9yxhx2e30y>
